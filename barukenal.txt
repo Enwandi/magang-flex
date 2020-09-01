@@ -1,0 +1,43 @@
+SMT :
+Introduction
+Learn of Printing Machines
+Learn of Screen Printing Inspection
+Learn of Pick and Place
+Learn of Reflow
+Learn AOI
+
+Wave :
+Learn of Fluxer and principle
+Learn of Wave Soldering and Profiling
+Learn Inspection on Wave Soldering
+
+Coating :
+
+Learn of Coating
+Learn Inspection on Coating
+
+BackEnd :
+Simple Tester
+ICT
+FCT
+
+Report :
+
+Title Selection
+Report Making
+
+
+
+LINK CRUD : https://jalan-tulis.blogspot.com/2017/05/tutorial-aplikasi-crud-vbnet-dengan-sql.html?m=1
+
+
+
+
+
+
+
+
+
+
+
+
